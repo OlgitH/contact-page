@@ -21,3 +21,8 @@ form label {
 form button {
     margin-top: 15px;
 }
+
+footer {
+    background-color:black;
+    color:beige;
+}
